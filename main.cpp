@@ -1,0 +1,13 @@
+#include <iostream>
+#include "array.h"
+
+int main() {
+    Array arr;
+
+    arr.setValue(6);
+    arr.setValue(60);
+    arr.setValue(40);
+
+    return 0;
+}
+
